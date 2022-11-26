@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":app" external.linked.project.path="$MODULE_DIR$/../../../app" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="SportAppMobile" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":app" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="4.1.2" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="4.1.2" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/main/res;file://$MODULE_DIR$/../../../app/src/debug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/debug;file://$MODULE_DIR$/../../../app/build/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../app/src/androidTest/res;file://$MODULE_DIR$/../../../app/src/androidTestDebug/res;file://$MODULE_DIR$/../../../app/build/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../app/build/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../app/build/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$MODULE_DIR$/../../../app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/b6e009d1183fa5f27de2f3db8841c184/navigation-fragment-ktx-2.2.2-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/b69414f2657dbf7ab202d8f0e3704c99/jetified-fragment-ktx-1.2.4-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/77234c92e288147018f4362a09e6beb2/navigation-ui-ktx-2.2.2-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/a890cb8f9bbcea0f915966e1df29626f/navigation-ui-2.2.2-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/2a73014a7229ea3844c4ec2d3e23170b/material-1.6.1-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/93371779dea2dc6cde18730f06dd94da/appcompat-1.5.1-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/8517b5836cc1a37a85d4c1b9a272ca40/jetified-viewpager2-1.0.0-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/9e88396b818ae2ea44eebe2e1375f805/navigation-fragment-2.2.2-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/46ea2ba807d54759e26af7fe8def5da4/fragment-1.3.6-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/4f68907e94448864d049a6e59c1bd333/navigation-runtime-ktx-2.2.2-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/0398df4902a5348e24a51bfb00fc1329/navigation-runtime-2.2.2-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/1699189df04c5b73d955eff430ac9762/jetified-activity-ktx-1.1.0-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/95121e9b2fba67510b7b927a54b6d4e0/jetified-activity-1.5.1-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/a61212f6a3899cf65e01a95e2bb77bff/jetified-lifecycle-viewmodel-savedstate-2.5.1-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/8093de26c3f2635a5e4cee0f70e7f196/jetified-core-ktx-1.9.0-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/1cc971940bfc6669595b0e308965b9e7/jetified-savedstate-1.2.0-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/4c86f4ba359fd54e0a06d322a4dd9d5b/jetified-appcompat-resources-1.5.1-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/9c053050c5367d202a63df896657c401/drawerlayout-1.1.1-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/b9305b3f0bf70ad43daf969d45209fd6/coordinatorlayout-1.1.0-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/add3bbde1f0d85cdfbcb354620880fed/dynamicanimation-1.0.0-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/64a05ec84c2712020b84a156dee31dc4/recyclerview-1.1.0-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/6b56b73bdf581eb49d0ce31d5f77d81e/transition-1.2.0-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/cc1bc096ebd085cf05c23accac0b16c1/vectordrawable-animated-1.1.0-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/f549131c66b843621f98097942d00ab4/vectordrawable-1.1.0-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/b7466f601c299e4c83dceeeafc07927a/viewpager-1.0.0-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/8967e120637d74cb56ef1ab07998345f/customview-1.1.0-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/ac1467ca8dd01b8ea6b833ef32bd0433/legacy-support-core-utils-1.0.0-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/3909a965dce5065486c2e0e085325fba/loader-1.0.0-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/47c2be19f56a9f506dc3bd839ccfa74a/navigation-common-ktx-2.2.2-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/f97ccca183c758761ddb89ae057df824/navigation-common-2.2.2-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/613d598e640c47ac57cff9187a0e28cb/core-1.9.0-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/e7318e2e1a358802a6a014eaeab83d00/jetified-annotation-experimental-1.3.0-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/1ce0111591d1d4c2ef4f733cab35fd48/jetified-lifecycle-viewmodel-ktx-2.2.0-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/c9c543a2d3a9e7fbaf61085c5be7c36f/lifecycle-viewmodel-2.5.1-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/6cc630ba590ef2c748098ab46b9e0494/jetified-collection-ktx-1.1.0.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/82687e73795135cc2de5fa113c9e6c40/jetified-lifecycle-livedata-core-ktx-2.2.0-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/4da1aec785ee16b97201084162bb84a2/jetified-lifecycle-runtime-ktx-2.2.0-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/f53751b9ae48a31b3a8f4a4cb7dd57ac/jetified-kotlinx-coroutines-core-jvm-1.6.1.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/8dc0e89aeec6d227fbf3161ad7342d03/jetified-kotlinx-coroutines-android-1.6.1.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/435526aebf9d8282f136c8f65c13c6ec/jetified-kotlin-stdlib-jdk8-1.6.0.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/b3c45160d71e50ea10e4de87e05115a7/jetified-kotlin-stdlib-jdk7-1.6.0.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/bffb9eacd51de6ae8192f38590e4f43f/jetified-kotlin-stdlib-1.7.10.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/a09684cf0d16dd04ce83f362f804a8fc/jetified-kotlin-stdlib-common-1.7.10.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/cb22eff5fbf5fafd82e7bc67f842d899/jetified-annotations-13.0.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/a301ab61c33d6691f8e1f5f1f86b8af3/cursoradapter-1.0.0-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/467971349b0e5b0717a85fbf5a2b5c40/cardview-1.0.0-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/f3292eee8d07f03bf5ceb04606c7f503/lifecycle-runtime-2.5.1-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/d1a0cb18a91e612f716b57bce42f0706/versionedparcelable-1.1.1-api.jar:/Users/cdiazgarcia/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/5cb69379ba674e59e491ffd92d89233d/lifecycle-livedata-2.0.0-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/63d9d93c1589e7bd689c37e5ec321c71/core-runtime-2.1.0-api.jar:/Users/cdiazgarcia/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/1ce61f3ce16a656d32b7cc3c8b9ff5e2/lifecycle-livedata-core-2.5.1-api.jar:/Users/cdiazgarcia/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.5.1/1fdb7349701e9cf2f0a69fc10642b6fef6bb3e12/lifecycle-common-2.5.1.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/1a760b2ff553a9c2c412ff2bec113e61/interpolator-1.0.0-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/82858d8f23f8542c05bf4f674cc6b244/documentfile-1.0.0-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/5e21e26b0c32dfe667eed46ed7b16437/localbroadcastmanager-1.0.0-api.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/9a00241fa30a6ef8c91ddff163d4bb6f/print-1.0.0-api.jar:/Users/cdiazgarcia/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.3.0/21f49f5f9b85fc49de712539f79123119740595/annotation-1.3.0.jar:/Users/cdiazgarcia/.gradle/caches/transforms-2/files-2.1/f4f9303c7c5e9de67025133535bbee8f/constraintlayout-2.1.4-api.jar:/Users/cdiazgarcia/Library/Android/sdk/platforms/android-33/android.jar:/Users/cdiazgarcia/Library/Android/sdk/build-tools/33.0.0/core-lambda-stubs.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="app_debug" />
+          <option name="jvmTarget" value="1.8" />
+          <option name="languageVersion" value="1.4" />
+          <option name="apiVersion" value="1.4" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../app">
+      <excludeFolder url="file://$MODULE_DIR$/../../../app/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../app/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 33 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
